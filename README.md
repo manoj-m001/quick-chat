@@ -1,4 +1,4 @@
-# Quick Chat App
+# Quick Chat App 🚀🚀
 
 A full-stack real-time chat app with Express, Socket.IO and React.
 
